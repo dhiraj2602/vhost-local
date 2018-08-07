@@ -1,5 +1,4 @@
-# vhost-local
-How to set virtual host on local machine (mac)
+# How to set virtual host on local machine (mac)
 
 ### Steps
 - Make a folder in your root directory (/Users/<username>) by name frontend and set its permission to <username>:wheel
