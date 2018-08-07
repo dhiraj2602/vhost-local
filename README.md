@@ -40,13 +40,8 @@
   $ sudo apachectl restart
   ```
 ### Setup Repo folders on local
-- Make folders in frontend directory corresponding to each frontend repo/module with the name specified in virtualhost config.
-    | Module | Directory Name |
-    | ------ | ------ |
-    | dashboard-ui | dashboard |
-    | resume-ui | resume |
-    | career-fit-frontend | career-fit |
-    | aspire-ui | aspire |
+- Make folders in frontend directory corresponding to each frontend repo/module with the name specified in virtualhost config. For eg. dashboard for dashboard-ui and resume for resume-ui.
+    
 
 - Go to each folder in terminal and clone corresponding repo using following commands:
   ```sh
