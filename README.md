@@ -11,7 +11,7 @@
     ```
 - Go to /etc/apache2/httpd.conf
   ```sh
-  $ sudo vim /etc/apache2/httd.conf
+  $ sudo vim /etc/apache2/httpd.conf
   ```
 - Uncomment following lines:
   ```sh
