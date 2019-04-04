@@ -20,7 +20,7 @@
   ```
 - Uncomment ServerName from /etc/apache2/httpd.conf and set it to vmock.localhost
 
-- Go to /etc/apache2/extra/httpd-vhost.conf and paste following:
+- Go to /etc/apache2/extra/httpd-vhosts.conf and paste following:
   ```sh
     <VirtualHost *:80>
         ServerName vmock.localhost
