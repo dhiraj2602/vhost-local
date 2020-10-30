@@ -52,6 +52,5 @@
   $ npm install
   $ cp -a .env.dev .env
   $ npm start
-  $ gulp
   ```
 ##### vmock.localhost should work for you now.
