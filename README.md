@@ -53,4 +53,7 @@
   $ cp -a .env.dev .env
   $ npm start
   ```
+### Disable samesite cookie policy on chrome
+- Go to chrome://flags in google chrome, search "SameSite by default cookies" and disable the policy. Google Chrome (this policy) does not allow cookies from different site to be sent, and we are using vmock.localhost and calling \*.vmock.com.
+
 ##### vmock.localhost should work for you now.
